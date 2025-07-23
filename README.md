@@ -1,10 +1,19 @@
-# 👋 Hi, I'm Rob
+# 👋 G’day, I'm Rob
 
-I'm a beginner developer with a hands-on technical background. I enjoy building practical tools, learning modern web development, and working on real-world problems one line of code at a time.
+Sparky-turned-coder from down under ⚡🧰  
+I have a long term passion for IT, and I’ve swapped the toolbox for the keyboard — now building techy things that do the job right, no mucking around.
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🔧 What I'm Up To
+
+- Learning the ropes of full-stack web dev  
+- Building real-world tools, not just to-do lists  
+- Always keen to get stuck into a project that solves a problem
+
+---
+
+### 🛠️ Tools I Use
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
@@ -16,22 +25,13 @@ I'm a beginner developer with a hands-on technical background. I enjoy building 
 
 ---
 
-### 🌱 Currently Learning
+### 🧠 Still Learning
 
-- Git & version control workflows
-- JavaScript fundamentals
-- Web development best practices
-- Building and deploying small web apps
-
----
-
-### 🚀 Goals
-
-- Build useful, real-world applications  
-- Improve my frontend & backend development skills  
-- Learn deployment strategies for shared hosting platforms like cPanel  
-- Collaborate with other developers and contribute to open source
+- Git and version control without breaking everything  
+- JavaScript basics (and a few head-scratchers)  
+- How to build, test, and launch small web apps  
+- Deploying to shared hosting like cPanel — keeping it old-school but effective
 
 ---
 
-> ⚡ “Build it. Break it. Learn from it.”
+> ⚡ "Build it strong. Make it work. Don’t overcomplicate it."
